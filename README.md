@@ -1,2 +1,2 @@
 # Particle-Filter-for-Model-Optimization
-Testing Particle Filter Approach for Model Optimization
+Testing particle filter and ensemble filter approaches for neural network model optimization
